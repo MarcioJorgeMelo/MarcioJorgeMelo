@@ -58,7 +58,7 @@
 </ul>
 
 <pre>
-const filipimoraes = {
+const marcioJorge = {
   cargo: "Full Stack Developer | UI/UX Designer",
   local: "Fortaleza - Ceará, Brasil",
   foco: [
